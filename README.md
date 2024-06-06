@@ -98,10 +98,6 @@ Training results include tracking metrics such as:
 
 Contributions are welcome! Please fork this repository and submit pull requests with any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ---
  
  
