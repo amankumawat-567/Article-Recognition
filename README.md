@@ -1,5 +1,7 @@
 # Article Recognition with Transformer-Based Approach
 
+> **Joint project** — built with [@amansin05](https://github.com/amansin05) during a Pratham Software internship (2024). My contribution: the Classification Regression Transformer (CRT) model architecture — multi-head/multi-level attention, and the training & prediction pipeline.
+
 This repository implements a transformer-based approach for recognizing articles, treating each article number as a separate class. The notebook covers the entire workflow from data loading and preprocessing to model training and evaluation.
 
 ## Table of Contents
